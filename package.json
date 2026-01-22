@@ -1,6 +1,6 @@
 {
-  "name": "@codywilliamson/mcp-server-trello-slim",
-  "mcpName": "io.github.codywilliamson/mcp-server-trello-slim",
+  "name": "@shockbirds/mcp-server-trello-slim",
+  "mcpName": "io.github.shockbirds/mcp-server-trello-slim",
   "version": "1.0.0",
   "description": "A slim MCP server for Trello boards with minimal response payloads, powered by Bun.",
   "keywords": [
